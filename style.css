@@ -1,0 +1,10 @@
+.hide {
+    display: none;
+}
+
+.car {
+    width: 50px;
+    height: 100px;
+    background: transparent url("./image/racer.png") center / cover no-repeat;
+    transform: scale(1, -1);
+}
